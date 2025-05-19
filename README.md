@@ -60,7 +60,7 @@ Este código é escrito em **ProbLog**, uma linguagem baseada em Prolog para mod
 
 ### Passos:
 
-1. Acesse o [ProbLog Online Editor](https://dtai.cs.kuleuven.be/problog/editor.html#task=prob&hash=64ed51ea4efedd05447b77d6fb626cb2).
+1. Acesse o [ProbLog Online Editor](https://dtai.cs.kuleuven.be/problog/editor.html).
 2. Cole o conteúdo do arquivo `.pl` no editor.
 3. Clique em **"Run"** para executar o modelo e ver os resultados das consultas.
 
